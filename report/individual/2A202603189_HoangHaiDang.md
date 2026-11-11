@@ -27,7 +27,7 @@
 
 - Ảnh, vị trí và object Medium đầu tiên tự vẽ: ảnh `000000181542.jpg`, người phụ nữ mặc áo dài trắng đang đi qua vạch sang đường ở giữa ảnh.
 - Class và quy tắc tôi dùng để chọn biên: `person`. Vẽ theo phần nhìn thấy, gồm cả tóc, hai tay và tà áo dài; dừng biên ở chỗ người tiếp giáp với xe máy phía sau, không tô sang xe. Người này là một object riêng, tách khỏi người lái và xe máy xung quanh.
-- Nếu dùng gợi ý sau đó: dùng SAM3 cho các object còn lại, rồi kiểm lại class và số object trong danh sách Objects. Giữ người lái và xe máy là hai object riêng (ví dụ người lái #20 và xe máy #10 ở ảnh `000000181542.jpg`), vì quy tắc instance tính mỗi vật là một mask. Ở mép trái ảnh `000000373353.jpg`, vật bị trùm bạt chỉ lộ bánh xe được giữ class `motorcycle`, vì phần nhìn thấy là bánh và hình dáng xe máy.
+- Nếu dùng gợi ý sau đó: dùng SAM3 cho các object còn lại, rồi kiểm lại class và số object trong danh sách Objects. Giữ người lái và xe máy là hai object riêng vì quy tắc instance tính mỗi vật là một mask. 
 
 ## 3. Một lỗi tôi tìm thấy và sửa
 
