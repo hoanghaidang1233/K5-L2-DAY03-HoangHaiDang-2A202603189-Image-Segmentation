@@ -2,7 +2,7 @@
 
 - Mã học viên theo lớp: 2A202603189
 - Ngày / CVAT local: 11/11/2026 / CVAT local
-- Công cụ đã dùng: CVAT local (Brush để tự vẽ object đầu tiên, SAM3 trong CVAT cho các object còn lại); Claude hỗ trợ kiểm tra cấu trúc ZIP, rà mask và soạn report
+- Công cụ đã dùng: CVAT local (Brush để tự vẽ object đầu tiên, SAM3 trong CVAT cho các object còn lại)
 
 ## 1. Bài đã nộp
 
